@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short vvarning to all persecutors of the innocent but more particularly to the bailiffs and officers of Kingston upon Thames, and the justices and officers of the towns near thereunto. Being an alarm from the Lord God, to warn them, that they repent, and turn from the evil of their doings. By Henry Penfould.</title>
+            <title>Short warning to all persecutors of the innocent.</title>
+            <author>Penfould, Henry, b. 1643 or 4.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54013</idno>
+            <idno type="STC">Wing P1142A</idno>
+            <idno type="STC">ESTC R217507</idno>
+            <idno type="EEBO-CITATION">99829169</idno>
+            <idno type="PROQUEST">99829169</idno>
+            <idno type="VID">33605</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54013)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33605)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1975:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short vvarning to all persecutors of the innocent but more particularly to the bailiffs and officers of Kingston upon Thames, and the justices and officers of the towns near thereunto. Being an alarm from the Lord God, to warn them, that they repent, and turn from the evil of their doings. By Henry Penfould.</title>
+                  <title>Short warning to all persecutors of the innocent.</title>
+                  <author>Penfould, Henry, b. 1643 or 4.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33605:1" rendition="simple:additions"/>
+            <p>A Short VVARNING TO ALL Perſecutors of the Innocent; BUT More particularly to the Bailiffs and Officers of <hi>Kingſton</hi> upon <hi>Thames,</hi> and the Juſtices and Officers of the Towns near thereunto.</p>
+            <p>BEING An Alarm from the Lord God, to warn them, that they may repent, and turn from the Evil of their Doings.</p>
+            <p>By <hi>Henry Penfould.</hi>
+            </p>
+            <p>Printed in the Year, 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33605:2"/>
+            <pb n="3" facs="tcp:33605:2" rendition="simple:additions"/>
+            <head>A Short Warning to all Perſecutors of the Innocent; but more particularly to the Bailiffs, and Officers of <hi>Kingſton</hi> up<g ref="char:EOLhyphen"/>on <hi>Thames,</hi> and the Juſtices and Offi<g ref="char:EOLhyphen"/>cers of the Towns near thereunto, &amp;c.</head>
+            <p>O Ye Stubborn, Hard-hearted, Rebellious, Stiff-necked, and Cruel-minded men; Spoylers and Deſtroyers of God's Heritage: Why do ye harden your hearts againſt the Lord God and his People? O Repent, repent, weep and howl, for the Day of the Lord God that cometh on ye ſuddenly, that haſteth to overtake ye.</p>
+            <p>O Repent, repent, and rent your hearts; and be ye melted and broken, O ye Rocks, before the Lord God, before he ariſe in the fierceneſs of his Wrath and hot Diſpleaſure, and rend ye, and tear ye to pieces, and ye be utterly conſumed, and there be none to ſtand in the gap, nor ſtop his Wrath, nor deli<g ref="char:EOLhyphen"/>ver ye.</p>
+            <p>O ye Deſtroyers, and Waſters, and Spoilers of Gods Peo<g ref="char:EOLhyphen"/>ple, that are even ſeared and ſealed, faſt bound up together, as with one Bond and Cord of Iniquity: Repent, repent, and turn to the Lord, or God will break your bands, and looſe your Joynts ſuddenly.</p>
+            <p>O Awake, awake, Why will ye ſlumber? Why will ye ſleep? Why will ye not lift up your eyes, and behold and conſider, before ſudden Deſtruction overtake ye? Did ever Oppreſſion and Cruelty make any People happy? Did ever the Perſecu<g ref="char:EOLhyphen"/>tors of Gods innocent People, eſcape his Hand of Vengeance, that followed them.</p>
+            <p>Therefore I do warn ye, as by the Mouth of the Lord God, to ariſe, eſcape, and flee from the Wrath to come, and De<g ref="char:EOLhyphen"/>ſtruction
+<pb n="4" facs="tcp:33605:3" rendition="simple:additions"/>
+that haſteneth on apace upon ye that run as a Poſte ve<g ref="char:EOLhyphen"/>ry ſwiftly, and ye ſhall not be able to eſcape, except ye ariſe, and meet the Lord God in his Judgments, and bow down and humble your ſelves before him; elſe, he will tread you down under his Feet, and trample upon ye, even as ye do now upon the Innocent, who are poor and helpleſs, and have no Helper in the Earth.</p>
+            <p>O why do you harden your hearts, and band your ſelves to<g ref="char:EOLhyphen"/>gether againſt the Lord God Almighty. Repent, repent, O ye Spoilers, O ye Deſtroyers; for God will ſpoil the Spoiler, and deſtroy the Deſtroyer, and utterly lay waſte the Habitation of them that ſpoil his Heritage.</p>
+            <p>O ye Fools, and blind and dull of underſtanding; When did ever any People ſet themſelves in battel againſt the Lord, and conquer? When did ever any People make war with the Lord God of Hoſts, and Proſper? but that in the middeſt of their ſpoil and triumph God hath inſnared them, and taken, and overthrown them,<note place="margin">Abraham <hi>reſ<g ref="char:EOLhyphen"/>cued</hi> Lot.</note> even while the Prey hath been in their hands, and hath reſcued and ſaved it, and deſtroyed them.</p>
+            <p>O ye Fooliſh and Blind, Why do you not regard? Why do you not at all conſider whom ye are thus rifling, and pillag<g ref="char:EOLhyphen"/>ing, and ſpoiling, in this manner, of their Goods and E<g ref="char:EOLhyphen"/>ſtates? What are they your forreign Enemies? What are they ſuch as were born to no priviledge here, among ye? or what, have they wickedly forfitted or ſold their priviledge and right in the Laws of this Land, their juſt, and due, and equal Birthright, even with ye and other men? No, no, But they are your own Country-men, your own Townſ-men, your own Neighbours, that are your Friends, that have wiſhed ye no evil, that have as good a Birthright unto the Laws and Rights, and Priviledges of this Land, as your ſelves; and have as little for<g ref="char:EOLhyphen"/>fitted or ſold our Birth-right, to them, as your ſelves, by the breach of any juſt or equal Law; or by any evil, or ungodly, or unchriſtian, or diſhoneſt, or diſorderly practiſe: But why then do ye thus proudly inſult and boaſt over us, your Country-men, your Neighbours, your Friends, doing things by us contrary to Reaſon, contrary to common ſence, contrary to Chriſtians,
+<pb n="5" facs="tcp:33605:3" rendition="simple:additions"/>
+contrary to ſober men, contrary to thoſe that do as they would be done by, in keeping us cloſe Priſoners, upon the account of evil Behaviour; whereas it is moſt certainly known, and hath ever been experienced by us, That we have ever been of as harmleſs, blameleſs, civil, ſober, and honeſt Behaviour as any of your ſelves; not guilty of any envyings, hatreds, threatnings, evil-ſpeakings, no Curſers, no Swearers, no Drunkards, no Strikers, no Spoylers of the Goods of Honeſt and Harmleſs men, as ſome of ye have been and are. But why do ye ſo proudly boaſt, and inſult over us; becauſe that ye know we have no Helper in the Earth? But do not thus err, and be not thus miſtaken in your minds; we have our help in God, and the Lord God that ſitteth in the Heavens, will certainly avenge our Cauſe, and bring help, and deliverance unto us, and deſtruction upon ye (except ye repent) before ye are aware; and now ye boaſt and rejoyce over us, but when deſtruction cometh upon ye, for your evil deeds, then he that bring<g ref="char:EOLhyphen"/>eth Salvation and Deliverance unto us, even our God, that ſitteth in the Heavens (as <hi>David</hi> ſaith) ſhall laugh at ye; now is your time, and now ye make a mock and deriſion at God, and his Truth, and People; but hereafter, and anon it will not be your time; but God will deride ye, and make a mock at ye, except ye repent, and turn, and humble your ſelves: But go too now, Why do ye boaſt your ſelves thus, in the ſpoil of the Goods of the Innocent, as though ye were now heaping up and treaſureing up ſome great Store for your ſelves, your Wives, your Children, your Poſterity after ye? but oh ye that do endeavour to deſtroy the Juſt, that would ruin Huſ<g ref="char:EOLhyphen"/>bands with their Wives, and Fathers with their Children, the Harmleſs and Innocent, that have neither hatched or contrived or wiſhed, or thought of wrong or miſchief againſt ye. O con<g ref="char:EOLhyphen"/>ſider theſe things: O Repent, O repent, and turn from the evil of your doings, and cry, and weep, and lament, and humble your ſelves before the Lord, if happily he may hear and receive you, and pardon your tranſgreſſions, and heal you, O leave off your ſpoiling, leave off your waſting, leave off your pil<g ref="char:EOLhyphen"/>laging, leave off your deſtroying; for by this ye ſhall not en<g ref="char:EOLhyphen"/>creaſe your Riches, or Wealth, or Treaſure, or Store; theſe
+<pb n="6" facs="tcp:33605:4" rendition="simple:additions"/>
+goods ſhall never be any ſuccor or ſupport unto you in your de<g ref="char:EOLhyphen"/>creped old age (if ever ye live to come to it) remember what God ſaith of the wicked. Ye ſhall not get hereby any Treaſure of In<g ref="char:EOLhyphen"/>heritance unto your Wives and Children, except by ſuch kind of deeds, ye ſhall treaſure up to your ſelves in ſtore, (which ſhal be a during Inheritance to ye, &amp; the fruits of it remain to your wives and Children, and your Childrens Children, unleſs they repent) the Eternal Wrath, and ſore diſpleaſure, and indignation and curſe of the Lord God, of this you ſhall be poſſeſſors all your dayes, in your middle and older age, with the Diſplea<g ref="char:EOLhyphen"/>ſure, and Wrath, and Indignation, and Vengeance, and Curſe of the Lord ye ſhall be heavy loaden to your Graves; this ſhall be your Store, this ſhall be your Treaſure, which ye ſhall car<g ref="char:EOLhyphen"/>ry with you, which ye ſhall leave behind you, to your Wives and Children, and Childrens Children; even the Wrath and Indignation, and Vengeance, and Curſe of God (if ye do not repent) ye ſhall certainly carry this along with you, and leave this behind unto your Children, though you leave them nothing elſe; Gods Wrath, and Indignation, and Curſe, and Vengeance to be ſure ye ſhall make them Heirs, and Inheritors, and Poſſeſſors of, though of nothing elſe; this ſhall be as the Plague of Leproſie unto ye, that ſhall creep up your Houſes, and ſtick faſt by your Walls, that ſhall get up into your Beds of eaſe, that ſhall lodge with ye; that ſhall get into all your plea<g ref="char:EOLhyphen"/>ſant and delectable and comfortable things; it ſhall get into your Basket, and mix it ſelf with all your Store; your Trades and your Callings ſhall be ruined by it; it ſhall cleave to your Fleſh, and your Skin, and ſtick faſt by your Bones; ye ſhall not wipe it off; ye ſhall not purge it out; ye ſhall not acquit your ſelves, and be rid thereof, except ye repent, and rent your hearts, and waſh your hands of theſe things, and turn from the evil of your doing, unto the Lord God, who is pitifull and mercifull, that delighteth to ſhew Mercy, and pardon tranſ<g ref="char:EOLhyphen"/>greſſion and ſin, and willeth in no wiſe the death of a Sinner, but that all may turn to him, and live: But if ye do not mind your ſelves, yet even for your Wives, and tender Childrens ſakes, leave off the evil of your doings, and count it not your
+<pb n="7" facs="tcp:33605:4" rendition="simple:additions"/>
+boaſting and rejoycing to procure the Wrath, and Indignation, and Curſe, and Vengeance of the Lord God, and make him your Enemy, even for your Wives and tender Childrens ſake:</p>
+            <p>O why ſhould they have cauſe to curſe ye, and wiſh that ye had been cut off and deſtroyed, that ye had been rotten in your Graves before ever ye had ſet your hands to ſuch a work as this; to perſecute, and deſtroy, and ſpoil the Innocent?</p>
+            <p>O why do ye ſtrive to make your Name rotten &amp; ſtink among ſober men while ye live, and loathſom and ſtinking in Genera<g ref="char:EOLhyphen"/>tions to come, after ye be dead? Are ye indeed ignorant, or have ye not read of ſuch cruel, wicked, bloody minded men of old, that perſecuted, and ſpoiled, and deſtroyed Harmleſs Honeſt men, for Serving and Worſhiping God according to their Con<g ref="char:EOLhyphen"/>ſciences, contrary to their way, Have not their names rotted? Do they not ſtink? Are they not loathſom, even the remem<g ref="char:EOLhyphen"/>brance of them? Have ye not read, how the ſtate of ſuch men hath been miſerable while they have lived, and when they have died worſe?</p>
+            <p>O Repent, and turn to the Lord God, that be may pardon your tranſgreſſion, that it may not be ſo with you: O why will you let your own tender Children bear the weight of your tranſgreſſion? O what have they done, that they ſhould be puniſhed for your iniquity? O why ſhould your Children ſay, The Wrath and Curſe of God hath conſumed my Father, and all that he hath; all is gone beſides, and that is left and de<g ref="char:EOLhyphen"/>ſcended to me: O unnatural, O cruel Father, that had no more love, that had no more affection, that hath left me only ſuch a Legacy, that hath gotten only ſuch a Treaſure, and hath laid up ſuch a Store, Vials full of Wrath, with many Dreggs of the Wrath and curſe of God, to make me Heir, and In<g ref="char:EOLhyphen"/>heritor, and Poſſeſſor of (eſpecially ſhould I follow his ſin<g ref="char:EOLhyphen"/>ful ſteps?)</p>
+            <p>See ye here, now I have laid before you Life and Death, the Bleſſing of the Lord God Almighty and Curſing, that ſame that will bring ye to true Peace, and that which will be a per<g ref="char:EOLhyphen"/>petual Anguiſh and Horror, and a never dying Worm, gnawing upon ye continually; So why ſhould ye now be angry with me? Why ſhould ye gnaſh your Teeth upon me? What becauſe I
+<pb n="8" facs="tcp:33605:5"/>
+have told ye the truth; I have ſought to do ye no wrong here<g ref="char:EOLhyphen"/>by, but it is in love unto ye, and your Poſterity alſo; and by a neceſſity from God, to warn ye to flee from the wrath to come, that ſo I may be clear of your blood, and if ye periſh by the Hand of the Lord, by your evil doings (as certainly ye ſhall, if ye do not repent) then your blood ſhall be on your own heads, and I ſhall be clear: So now I have told ye before hand, and indeed I only tell ye, or rather deſire ye which to chooſe, but the choiſe is in your ſelves altogether, (as for me) for ye may chuſe whether ye will, Life or Death, Bleſſing or Cur<g ref="char:EOLhyphen"/>ſing, the unchangeable Love and Peace of God or the Wrath and Curſe of God; of which when ye would acquit your ſelves ye ſhall not be able, unleſs ye turn and repent in time, which is the true deſire of my ſoul, that all may repent and turn and live, and none of ye may periſh, no, not one; who am how<g ref="char:EOLhyphen"/>ſoever accounted your Friend,</p>
+            <closer>
+               <signed>Hen. Penfould.</signed>
+               <dateline>From the Stock-Houſe in <hi>Kingſton,</hi> where I am under cloſe Confine<g ref="char:EOLhyphen"/>ment with three more, Honeſt and Harmleſs, and Quiet, and Peace<g ref="char:EOLhyphen"/>able men, until we give ſecurity for our good Behaviour. Writ<g ref="char:EOLhyphen"/>ten <date>the 26th of the 4th Moneth, 1670.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Chriſt ſaith, <hi>Love Enemies, and love one another:</hi> And is it your Prieſts and Biſhops, that teach you to perſecute one another.</p>
+            </postscript>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:33605:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
